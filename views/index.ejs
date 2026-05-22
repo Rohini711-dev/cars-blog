@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>MOST EXPENSIVE CARS IN WORLD </h1>
-    <% for(post of posts) { %>
+    <% for(post of posts) {%>
         <div class="post">
             <h3 class="user">@<%=post.username%></h3>
             <img src="<%= post.image %>" alt="car image" class="post-img">
@@ -22,4 +22,11 @@
             <button>Delete post</button>
         </form>        
         
+        
+        </div>
+
+
+    <%}%>    
+</body>
+</html>
         
