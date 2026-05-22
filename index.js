@@ -45,8 +45,7 @@ let posts = [
 ];
 
 app.get("/posts",(req,res)=> {
-    const currentPosts = (typeof posts!== 'undefined') ? posts : [];
-    res.render("index.ejs",{posts: currentPosts});
+    res.render("index.ejs",{posts});
 
 });
 
