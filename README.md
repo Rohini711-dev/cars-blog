@@ -3,7 +3,7 @@
 RESTful API for managing car blog posts built with Node.js and Express.js.
 
 ## Live Demo
-[View API](https://cars-blog-gitlab.vercel.app/posts)
+[View API](https://cars-blog-qda2.onrender.com/posts)
 
 ##  Tech Stack
 - **Backend**: Node.js, Express.js
