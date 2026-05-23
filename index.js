@@ -16,7 +16,7 @@ app.get("/",(req,res)=> {
 let posts = [
     {
        id:uuidv4(),
-       username:"Rohini",
+       username:"Alex",
        content:"BMW offers a diverse lineup of petrol hybrid and electric vehicles in India,with models ranging from the X1 and 3 Series to the X7 and XM, alongside locally produced cars at  their Chennai plant. ",
        image : "https://i.pinimg.com/236x/6f/ac/d5/6facd5f4d2183deaed6cad63882a4d88.jpg",
     
@@ -24,20 +24,20 @@ let posts = [
     },
     {
        id:uuidv4(),
-       username:"Rakshita",
+       username:"James",
        content:"Lamborghini (officially Automobili Lamborghini S.p.A. and colloquially Lambo) is an Italian manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi. Automobili Lamborghini S.p.A. Ducati Motor Holding S.p.A.",
        image : "https://static.vecteezy.com/system/resources/thumbnails/053/733/179/small/every-detail-of-a-sleek-modern-car-captured-in-close-up-photo.jpg",
     
     },
     {
        id:uuidv4(),
-       username:"Sita",
+       username:"Davis",
        content:"Volkswagen India offers a premium lineup focused on German engineering, safety, and performance, featuring top models like the 5-star GNCAP-rated Virtus sedan and Taigun SUV, alongside the Tiguan, Tayron, and Golf GTI. Key highlights include TSI petrol engines, high-strength safety cage construction, and a strong SUV/sedan portfolio. ",
        image : "https://stimg.cardekho.com/images/carexteriorimages/930x620/Volkswagen/Taigun/12659/1770889095844/front-left-side-47.jpg",
     },
     {
        id:uuidv4(),
-       username:"Janaki",
+       username:"Clara",
        content:"The most expensive car in the world is the Rolls-Royce La Rose Noire Droptail. Touted as the costliest car ever made at a staggering Rs. 250 crores, the Rolls-Royce La Rose Noire Droptail serves as the British luxury car maker's tribute to automobile craftsmanship.",
        image : "https://stimg.cardekho.com/images/carexteriorimages/930x620/Rolls-Royce/Rolls-Royce-Wraith/6398/1595835409056/exterior-image-165.jpg",
     
